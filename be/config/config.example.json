@@ -1,0 +1,9 @@
+{
+  "database": {
+    "type": "sqlite",
+    "database": "test",
+    "storage": "./test.db"
+  },
+  "port": 4000,
+  "sessionKey": "abcdefgh"
+}
